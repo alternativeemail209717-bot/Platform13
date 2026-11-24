@@ -1,6 +1,6 @@
 {
   "name": "tiktok-live-game-platform",
-  "version": "3.01.0",
+  "version": "3.02.0",
   "private": true,
   "type": "module",
   "description": "A TikTok LIVE game platform hosting one hundred independent games (incl. TEAM ARENA with thirty-six team, word-duel, battle-royale and duel formats, HANGMAN and 66 interactive word, maths, geography and quiz games) (Flagle Live, TRAVLE Live, Blindle, Findle Live, CROSSDLE Live, TWISTLE Live, Oracle, Colorblindle, Colordle, Structle, Textle, Rangedle, Codedle, Shapedle, Forbackle, Shiftle, Wordle, Betweendle, Comparable, Minedle, Linedle, Citydle, Towndle, Expandle, Fixle, Contexto, Numberblindle, Boxdle, Sudoku, Memory, Blossom, Word Shuffle, Team Arena) behind one game-selector screen, each reading real audience chat as guesses. Word games can be played in English, Bahasa Indonesia, Bahasa Melayu (Malaysia) or any mix.",
